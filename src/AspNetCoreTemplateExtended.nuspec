@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+    <metadata>
+        <id>AspNetCore.Template.Extended</id>
+        <version>1.0.0-beta</version>
+        <authors>Andrew Rublyov</authors>
+        <projectUrl>https://github.com/AndrewRublyov/AspNetCoreTemplateExtended</projectUrl>
+        <license type="expression">MIT</license>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>ASP.NET Core Web API template with built-in EF Core + MySQL, Identity, JWT auth, Swagger, FluentValidation and React for SPA</description>
+        <copyright>Copyright © 2019 Andrew Rublyov</copyright>
+        <tags>asp-net-core webapi react entity-framework-core fluent-validation swagger mysql</tags>
+        <packageTypes>
+            <packageType name="Template" />
+        </packageTypes>
+    </metadata>
+</package>

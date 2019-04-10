@@ -1,0 +1,9 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Andrew Rublyov",
+    "classifications": [ "Web" ],
+    "identity": "AspNetCore.Template.Extended",
+    "sourceName": "AspNetCoreTemplateExtended",
+    "name": "ASP.NET Core Extended",
+    "shortName": "webappex"
+}
