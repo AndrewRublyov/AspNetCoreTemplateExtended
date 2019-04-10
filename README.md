@@ -3,7 +3,7 @@
 ## ASP.NET Core Web App Extended Template
 
 This template includes:
-- `Entity Framework Core` with `Pomelo.EntityFrameworkCore.MySql` privider
+- `Entity Framework Core` with `Pomelo.EntityFrameworkCore.MySql` provider
 - `Identity` configured with `EF Core` and `JWT Bearer` authentication
 - `Autofac` dependency injection
 - `Swagger` using `Swashbuckle`
